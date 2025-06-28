@@ -2,7 +2,7 @@
 <h3 align="center">Instagram Old Login | For Educational & Research Use</h3>
 
 <div align="center">
-  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExb20yamU0bjU2enJreWpwcGRwcHprcTIzdmtqeHI0dmthbzc1d25hdyZlcD12MV9naWZzX3NlYXJjaCZjdD1n/GeimqsH0TLDt4tScGw/giphy.gif" width="340">
+  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExb20yamU0bjU2enJreWpwcGRwcHprcTIzdmtqeHI0dmthbzc1d25hdyZlcD12MV9naWZzX3NlYXJjaCZjdD1n/GeimqsH0TLDt4tScGw/giphy.gif" width="240">
 </div>
 
 ---
@@ -39,7 +39,8 @@ pip install -r requirements.txt
 
 > **Step 4**: Run the tool 
 
-```python jack.py
+```
+python jack.py
 ```
 
 > **Step 4**: Add Bot Token and Chat  ID:
