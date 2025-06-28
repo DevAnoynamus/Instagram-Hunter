@@ -1,8 +1,8 @@
-<h1 align="center" color='red'>ANOYNAMUS JACKER</h1>
-<h3 align="center">Instagram Jacking Scanner (2010–2020) | For Educational & Research Use</h3>
+<h1 align="center">ANOYNAMUS JACKER</h1>
+<h3 align="center">Instagram Old Login | For Educational & Research Use</h3>
 
 <div align="center">
-  <img src="https://media.giphy.com/media/3ov9jExd1QbTskx3Ko/giphy.gif" width="340">
+  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExb20yamU0bjU2enJreWpwcGRwcHprcTIzdmtqeHI0dmthbzc1d25hdyZlcD12MV9naWZzX3NlYXJjaCZjdD1n/GeimqsH0TLDt4tScGw/giphy.gif" width="340">
 </div>
 
 ---
@@ -48,10 +48,7 @@ pip install -r requirements.txt
 ENTER BOT_TOKEN
 ENTER CHAT_ID
 ```
----
 
-<div align="center">
-  <img src="https://media.giphy.com/media/1AjbQ8K0vDqu9XL9O3/giphy.gif" width="280" />
-</div>
+---
 
   <h3 align="center">Made by <strong>Anoynamus</strong> </h3>
