@@ -1,0 +1,4 @@
+requests
+colorama
+user_agent
+python-cfonts
