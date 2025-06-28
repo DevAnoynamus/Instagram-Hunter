@@ -1,21 +1,4 @@
-<head>
-  <link href="https://fonts.googleapis.com/css2?family=Orbitron:wght@700&family=Fira+Mono&display=swap" rel="stylesheet">
-  <style>
-    h1, h2, h3 {
-      font-family: 'Orbitron', monospace;
-      letter-spacing: 0.5px;
-    }
-    code, pre {
-      font-family: 'Fira Mono', monospace;
-    }
-    body {
-      background-color: #0f0f0f;
-      color: #e2e2e2;
-    }
-  </style>
-</head>
-
-<h1 align="center">ANOYNAMUS JACKER</h1>
+<h1 align="center" color='red'>ANOYNAMUS JACKER</h1>
 <h3 align="center">Instagram Jacking Scanner (2010–2020) | For Educational & Research Use</h3>
 
 <div align="center">
