@@ -1,9 +1,8 @@
+<div align="center">
+  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExb20yamU0bjU2enJreWpwcGRwcHprcTIzdmtqeHI0dmthbzc1d25hdyZlcD12MV9naWZzX3NlYXJjaCZjdD1n/GeimqsH0TLDt4tScGw/giphy.gif" width="300">
+</div>
 <h1 align="center">ANOYNAMUS JACKER</h1>
 <h3 align="center">Instagram Old Login | For Educational & Research Use</h3>
-
-<div align="center">
-  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExb20yamU0bjU2enJreWpwcGRwcHprcTIzdmtqeHI0dmthbzc1d25hdyZlcD12MV9naWZzX3NlYXJjaCZjdD1n/GeimqsH0TLDt4tScGw/giphy.gif" width="240">
-</div>
 
 ---
 
