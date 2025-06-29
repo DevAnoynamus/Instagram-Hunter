@@ -38,8 +38,8 @@ python jack.py
 
 🛠️ **CONFIG**
 ```python
-BOT_TOKEN = "your_bot_token_here"
-CHAT_ID = "your_chat_id_here"
+ENTER BOT_TOKEN"
+ENTER CHAT_ID
 ```
 
 ---
