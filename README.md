@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://media.tenor.com/Zyre2H8x528AAAAj/dinkdonk-peepo.gif" width="300"/>
+<img src="https://media.tenor.com/Zyre2H8x528AAAAj/dinkdonk-peepo.gif" width="270"/>
 
 # 🕶️ 𝙰𝙽𝙾𝚈𝙽𝙰𝙼𝚄𝚂 𝙹𝙰𝙲𝙺𝙴𝚁 🎭
 ## 🔐 𝐈𝐧𝐬𝐭𝐚𝐠𝐫𝐚𝐦 𝐎𝐥𝐝 𝐋𝐨𝐠𝐢𝐧 𝐇𝐮𝐧𝐭𝐞𝐫 | 𝙁𝙤𝙧 𝙀𝙙𝙪 & 𝙍𝙚𝙨𝙚𝙖𝙧𝙘𝙝 𝙐𝙨𝙚
