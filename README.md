@@ -1,54 +1,78 @@
 <div align="center">
-  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExb20yamU0bjU2enJreWpwcGRwcHprcTIzdmtqeHI0dmthbzc1d25hdyZlcD12MV9naWZzX3NlYXJjaCZjdD1n/GeimqsH0TLDt4tScGw/giphy.gif" width="300">
+
+<img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExb20yamU0bjU2enJreWpwcGRwcHprcTIzdmtqeHI0dmthbzc1d25hdyZlcD12MV9naWZzX3NlYXJjaCZjdD1n/GeimqsH0TLDt4tScGw/giphy.gif" width="260"/>
+
+# 🕶️ 𝙰𝙽𝙾𝚈𝙽𝙰𝙼𝚄𝚂 𝙹𝙰𝙲𝙺𝙴𝚁 🎭
+## 🔐 𝐈𝐧𝐬𝐭𝐚𝐠𝐫𝐚𝐦 𝐎𝐥𝐝 𝐋𝐨𝐠𝐢𝐧 𝐇𝐮𝐧𝐭𝐞𝐫 | 𝙁𝙤𝙧 𝙀𝙙𝙪 & 𝙍𝙚𝙨𝙚𝙖𝙧𝙘𝙝 𝙐𝙨𝙚
+
+<img src="https://camo.githubusercontent.com/82291b0fe831bfc6781e07fc5090cbd0a8b912bb8b8d4fec0696c881834f81ac/68747470733a2f2f70726f626f742e6d656469612f394575424971676170492e676966" width="100%" height="3"/>
+
 </div>
-<h1 align="center">ANOYNAMUS JACKER</h1>
-<h3 align="center">Instagram Old Login | For Educational & Research Use</h3>
+
+## 🧠 𝗔𝗕𝗢𝗨𝗧 𝗧𝗛𝗘 𝗧𝗢𝗢𝗟
+
+🔎 This is an advanced **Instagram account hunter tool**  
+📅 Search accounts created from **2010 to 2020**  
+🔗 Uses password reset links to find old users  
+🧪 Built for **educational & research purposes only**
+
+> ⚠️ **This project is for ethical research only. Misuse is strictly prohibited.**
 
 ---
 
-## 📚 About Instagram Jacking (Educational Use)
-
-"Instagram Jacking" in this tool refers to a **cybersecurity learning process**. It’s used to check whether legacy Instagram usernames (from 2K10–2K20) still respond to reset requests — without logging in, without password attempts, and without unauthorized access.
-
-This is **passive enumeration** only.  
-It’s built to help students and researchers understand how account validation works over time, how usernames decay or remain alive, and how passive probes can reveal useful data.
-
-
----
-
-## ⚙️ SETUP
-
-> **Step 1**: Clone the repo
+## ⚙️ 𝗦𝗘𝗧𝗨𝗣 𝗚𝗨𝗜𝗗𝗘
 
 ```bash
+# ⬇️ Clone the Repo
 git clone https://github.com/DevAnoynamus/Instagram-Hunter.git
-```
 
-> **Step 2**: Enter the tool directory
-
-```bash
+# 📂 Move to Directory
 cd Instagram-Hunter
-```
 
-> **Step 3**: Install the Python dependencies
-
-```bash
+# 📦 Install Requirements
 pip install -r requirements.txt
-```
 
-> **Step 4**: Run the tool 
-
-```
+# 🚀 Run the Tool
 python jack.py
 ```
 
-> **Step 4**: Add Bot Token and Chat  ID:
-
+🛠️ **CONFIG**
 ```python
-ENTER BOT_TOKEN
-ENTER CHAT_ID
+BOT_TOKEN = "your_bot_token_here"
+CHAT_ID = "your_chat_id_here"
 ```
 
 ---
 
-  <h3 align="center">Made by <strong>Anoynamus</strong> </h3>
+<div align="center">
+<img src="https://media.tenor.com/eDVmVks1NacAAAAC/hackerman-hack.gif" width="400"/>
+</div>
+
+---
+
+## 🧑‍💻 𝗠𝗔𝗗𝗘 𝗕𝗬
+
+<div align="center">
+
+### ⚡ 𝐃𝐞𝐯 𝐀𝐧𝐨𝐲𝐧𝐚𝐦𝐮𝐬 ⚡  
+👑 Github: [DevAnoynamus](https://github.com/DevAnoynamus)
+
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"/>
+
+</div>
+
+---
+
+## 📡 𝗖𝗢𝗡𝗧𝗔𝗖𝗧 & 𝗦𝗨𝗣𝗣𝗢𝗥𝗧
+
+[![Telegram](https://img.shields.io/badge/Telegram-%23000000.svg?&style=for-the-badge&logo=telegram&logoColor=61DAFB)](https://t.me/anoynamus)
+
+---
+
+<div align="center">
+
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%"/>
+<img src="https://camo.githubusercontent.com/82291b0fe831bfc6781e07fc5090cbd0a8b912bb8b8d4fec0696c881834f81ac/68747470733a2f2f70726f626f742e6d656469612f394575424971676170492e676966" width="100%" height="3"/>
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%"/>
+
+</div>
