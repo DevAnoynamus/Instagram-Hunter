@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExb20yamU0bjU2enJreWpwcGRwcHprcTIzdmtqeHI0dmthbzc1d25hdyZlcD12MV9naWZzX3NlYXJjaCZjdD1n/GeimqsH0TLDt4tScGw/giphy.gif" width="260"/>
+<div class="tenor-gif-embed" data-postid="7433999156356704111" data-share-method="host" data-aspect-ratio="1.08911" data-width="100%"><a href="https://tenor.com/view/dinkdonk-peepo-pepe-alert-bell-gif-7433999156356704111">Dinkdonk Peepo Sticker</a>from <a href="https://tenor.com/search/dinkdonk-stickers">Dinkdonk Stickers</a></div> <script type="text/javascript" async src="https://tenor.com/embed.js"></script>
 
 # 🕶️ 𝙰𝙽𝙾𝚈𝙽𝙰𝙼𝚄𝚂 𝙹𝙰𝙲𝙺𝙴𝚁 🎭
 ## 🔐 𝐈𝐧𝐬𝐭𝐚𝐠𝐫𝐚𝐦 𝐎𝐥𝐝 𝐋𝐨𝐠𝐢𝐧 𝐇𝐮𝐧𝐭𝐞𝐫 | 𝙁𝙤𝙧 𝙀𝙙𝙪 & 𝙍𝙚𝙨𝙚𝙖𝙧𝙘𝙝 𝙐𝙨𝙚
